@@ -18,7 +18,7 @@
 |  5.20V          |   1MS           |      952.2HZ                |        1000HZ                |
 
 # Graph
-![WhatsApp Image 2025-11-16 at 21 15 55_68e473be](https://github.com/user-attachments/assets/6d3923e4-d657-48d4-982e-8b4215cf17c0)
+![WhatsApp Image 2025-11-16 at 21 31 17_6f8094ae](https://github.com/user-attachments/assets/bd5092fb-e19a-4e0b-8f47-27dcf85aa4b6)
 
 
 
